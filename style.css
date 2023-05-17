@@ -6,3 +6,38 @@
 .container{
     max-width: 80vw;
 }
+
+.navbar{
+    height: 67px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.section1{
+    height: 50vh;
+}
+
+.section2{
+    height: 50vh;
+}
+
+.section3{
+    height: 50vh;
+}
+
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+
+.topright{
+    height: 50vh;
+    width: 50%;
+}
+
+.logo{
+    font-size: xx-large;
+}
