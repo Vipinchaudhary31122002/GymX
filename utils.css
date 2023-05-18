@@ -58,6 +58,10 @@
     background-color: grey;
 }
 
-.overflow-hidden{
-    overflow: hidden;
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
 }
