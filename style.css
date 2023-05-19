@@ -21,7 +21,7 @@
 }
 
 .section2{
-    height: 50vh;
+    height: 75vh;
 }
 
 .section3{
@@ -46,4 +46,29 @@
 
 .topright .gymimg{
     width: 500px;
+}
+
+.section2 h1{
+    font-size: 3rem;
+}
+
+.section2 p{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.box{
+    margin: 12px 22px;
+    min-width: 25vw;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+
+.box ul{
+    list-style: none;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
 }
