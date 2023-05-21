@@ -1,74 +1,70 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.container{
-    max-width: 80vw;
+.container {
+  max-width: 80vw;
 }
 
-.navbar{
-    height: 67px;
+.navbar {
+  height: 67px;
 }
 
-.navbar li{
-    list-style: none;
-    margin: 0 12px;
+.navbar li {
+  list-style: none;
+  margin: 0 12px;
 }
 
-.section1{
-    max-height: 100vh;
+.section1 {
+  max-height: 100vh;
 }
 
-.section2{
-    height: 75vh;
+.section2 {
+  height: 75vh;
 }
 
-.section3{
-    height: 50vh;
+.topleft {
+  width: 50%;
 }
 
-.topleft{
-    width: 50%;
+.topright {
+  width: 50%;
 }
 
-.topright{
-    width: 50%;
+.logo {
+  font-size: xx-large;
 }
 
-.logo{
-    font-size: xx-large;
+.dumbelling {
+  width: 30px;
 }
 
-.dumbelling{
-    width: 30px;
+.topright .gymimg {
+  width: 500px;
 }
 
-.topright .gymimg{
-    width: 500px;
+.section2 h1 {
+  font-size: 3rem;
 }
 
-.section2 h1{
-    font-size: 3rem;
+.section2 p {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
-.section2 p{
-    padding-left: 100px;
-    padding-right: 100px;
+.box {
+  margin: 12px 22px;
+  min-width: 25vw;
+  border: 2px solid grey;
+  border-radius: 15px;
 }
 
-.box{
-    margin: 12px 22px;
-    min-width: 25vw;
-    border: 2px solid grey;
-    border-radius: 15px;
+.box ul {
+  list-style: none;
 }
 
-.box ul{
-    list-style: none;
-}
-
-.highlighted{
-    font-size: 1.2rem;
-    font-weight: bolder;
+.highlighted {
+  font-size: 1.2rem;
+  font-weight: bolder;
 }
